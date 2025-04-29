@@ -3,6 +3,8 @@ This project is an interactive HR Analytics Dashboard developed using Power BI t
 
 # 📊 Overview
 The project consists of two comprehensive Power BI dashboards:
+# powerBI dashboard file link: 
+https://github.com/raushankr82/HR-analytics-dashboard-/blob/main/HR%20Analytics%20Dashboard.pbix
 
 # 1. Performance & Salary Dashboard
 KPIs: Count of employees, attrition rate, average age, salary, and tenure.
